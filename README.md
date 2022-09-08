@@ -1,6 +1,12 @@
 # Dolphin-Okami-Controller-Fix
 This repo has the files for fixing the loss of speed when playing okami (Wii) on dolphin using mouse and keyboard. The following is the tutorial, originally posted in the [Dolphin foruns](https://forums.dolphin-emu.org/Thread-okami-wii-solid-keyboard-mouse-controls-guide-windows)
 
+---
+
+**>>>>>>>>>> [Click here to download the files as a zip](https://github.com/leocb/Dolphin-Okami-Controller-Fix/archive/refs/heads/main.zip)**
+
+---
+
 ## The Problem
 
 After creating a ISO from my Okami disk, I started playing around with the various controls configurations dolphin offers, and after a while, I got some pretty solid controls working and could play Okami like a boss, however, if you ever tried playing Okami on the keyboard, you'll know that Amaterasu loses all her speed when changing directions on the nunchuck (from forward to forward+right, for example) and that almost makes the game unplayable, since some cut scenes require the player to run like hell!
