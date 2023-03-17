@@ -75,3 +75,10 @@ RIGHT MOUSE - "B" hold for celestial brush
 HOLD SHIFT and WASD to "DPad" control the camera, restricts movement, this behavior can be changed in the dolphin's controller settings
 HOLD SHIFT and MOVE THE MOUSE around to "Shake the nunchuck in a direction" - Fleetfoot technique (the implementation of this on the wii is extremely unreliable, I'm amazed it is working so well here)
 ```
+
+## Contributing
+
+- Feel free to open a PR with new features or bug fixes
+- Support this and more projects by donating:
+
+[![Paypal](https://user-images.githubusercontent.com/8310271/225498353-9d0a672d-ed45-4fed-9838-11d71ee49c28.png)](https://www.paypal.com/donate/?hosted_button_id=683D7S6KLX7EA)
